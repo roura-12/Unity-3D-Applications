@@ -1,0 +1,13 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="Sword">
+      <Damage>50</Damage>
+      <Durability>100</Durability>
+    </Item>
+  </Items>
+</ItemCollection>
+	
+	

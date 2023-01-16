@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adam12mars", "adam12mars.csproj", "{AFA2CECF-8FA2-3E33-7E0F-7187183051C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameRateBooster.Optimizations", "FrameRateBooster.Optimizations.csproj", "{BC054A69-A950-41DF-9957-F095076B4AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adam12mars.Editor", "adam12mars.Editor.csproj", "{F1E32479-FBF3-7662-E5CC-C059C9CCD80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adam12mars.Editor.Plugins", "adam12mars.Editor.Plugins.csproj", "{BC2AFC57-5076-695C-494D-7F4F35822B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA2CECF-8FA2-3E33-7E0F-7187183051C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA2CECF-8FA2-3E33-7E0F-7187183051C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA2CECF-8FA2-3E33-7E0F-7187183051C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA2CECF-8FA2-3E33-7E0F-7187183051C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC054A69-A950-41DF-9957-F095076B4AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC054A69-A950-41DF-9957-F095076B4AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC054A69-A950-41DF-9957-F095076B4AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC054A69-A950-41DF-9957-F095076B4AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E32479-FBF3-7662-E5CC-C059C9CCD80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E32479-FBF3-7662-E5CC-C059C9CCD80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E32479-FBF3-7662-E5CC-C059C9CCD80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E32479-FBF3-7662-E5CC-C059C9CCD80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2AFC57-5076-695C-494D-7F4F35822B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2AFC57-5076-695C-494D-7F4F35822B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2AFC57-5076-695C-494D-7F4F35822B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2AFC57-5076-695C-494D-7F4F35822B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
